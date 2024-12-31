@@ -1,2 +1,10 @@
 requests_oauthlib
+python-dotenv
 spotipy
+python-dotenv
+pandas
+matplotlib
+nltk 
+gensim
+scikit-learn
+plotly
